@@ -8,13 +8,6 @@
 # interpreter
 /interpreter/
 
-# conf file
-conf/zeppelin-env.sh
-conf/zeppelin-site.xml
-conf/keystore
-conf/truststore
-conf/interpreter.json
-
 # other generated files
 spark/dependency-reduced-pom.xml
 reports
