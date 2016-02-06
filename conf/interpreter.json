@@ -1,0 +1,317 @@
+{
+  "interpreterSettings": {
+    "2BDE2AEEP": {
+      "id": "2BDE2AEEP",
+      "name": "psql",
+      "group": "psql",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BBP6K57Z": {
+      "id": "2BBP6K57Z",
+      "name": "hive",
+      "group": "hive",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BA8715NC": {
+      "id": "2BA8715NC",
+      "name": "bigbrain",
+      "group": "bb",
+      "properties": {},
+      "interpreterGroup": [
+        {
+          "class": "org.apache.zeppelin.bigbrain.BigBrain",
+          "name": "bb"
+        }
+      ],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BAZ5KWSB": {
+      "id": "2BAZ5KWSB",
+      "name": "spark",
+      "group": "spark",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BDSTNHH7": {
+      "id": "2BDSTNHH7",
+      "name": "tachyon",
+      "group": "tachyon",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BAWG8QAE": {
+      "id": "2BAWG8QAE",
+      "name": "phoenix",
+      "group": "phoenix",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BA775VHH": {
+      "id": "2BA775VHH",
+      "name": "scalding",
+      "group": "scalding",
+      "properties": {},
+      "interpreterGroup": [
+        {
+          "class": "org.apache.zeppelin.scalding.ScaldingInterpreter",
+          "name": "scalding"
+        }
+      ],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BB56KEHT": {
+      "id": "2BB56KEHT",
+      "name": "elasticsearch",
+      "group": "elasticsearch",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BD4TAGFM": {
+      "id": "2BD4TAGFM",
+      "name": "cassandra",
+      "group": "cassandra",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BD2BHG25": {
+      "id": "2BD2BHG25",
+      "name": "tajo",
+      "group": "tajo",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BBTFXVGV": {
+      "id": "2BBTFXVGV",
+      "name": "angular",
+      "group": "angular",
+      "properties": {},
+      "interpreterGroup": [
+        {
+          "class": "org.apache.zeppelin.angular.AngularInterpreter",
+          "name": "angular"
+        }
+      ],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BA3QMU4M": {
+      "id": "2BA3QMU4M",
+      "name": "ignite",
+      "group": "ignite",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BCCH6Y1Y": {
+      "id": "2BCCH6Y1Y",
+      "name": "flink",
+      "group": "flink",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BAMXD8SQ": {
+      "id": "2BAMXD8SQ",
+      "name": "lens",
+      "group": "lens",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BCR1VMXP": {
+      "id": "2BCR1VMXP",
+      "name": "sh",
+      "group": "sh",
+      "properties": {},
+      "interpreterGroup": [
+        {
+          "class": "org.apache.zeppelin.shell.ShellInterpreter",
+          "name": "sh"
+        }
+      ],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BBQSK6EP": {
+      "id": "2BBQSK6EP",
+      "name": "jdbc",
+      "group": "jdbc",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BCQWHEWM": {
+      "id": "2BCQWHEWM",
+      "name": "md",
+      "group": "md",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BBZYEV1K": {
+      "id": "2BBZYEV1K",
+      "name": "hbase",
+      "group": "hbase",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    },
+    "2BAU1EJ4C": {
+      "id": "2BAU1EJ4C",
+      "name": "kylin",
+      "group": "kylin",
+      "properties": {},
+      "interpreterGroup": [],
+      "dependencies": [],
+      "option": {
+        "remote": true
+      }
+    }
+  },
+  "interpreterBindings": {
+    "2BDFAYGXU": [
+      "2BAZ5KWSB",
+      "2BCQWHEWM",
+      "2BBTFXVGV",
+      "2BCR1VMXP",
+      "2BBP6K57Z",
+      "2BDSTNHH7",
+      "2BAWG8QAE",
+      "2BDE2AEEP",
+      "2BD2BHG25",
+      "2BCCH6Y1Y",
+      "2BA3QMU4M",
+      "2BAMXD8SQ",
+      "2BD4TAGFM",
+      "2BAU1EJ4C",
+      "2BB56KEHT",
+      "2BA775VHH",
+      "2BBQSK6EP",
+      "2BBZYEV1K"
+    ],
+    "2BDB23TC7": [
+      "2BCQWHEWM",
+      "2BBTFXVGV",
+      "2BCR1VMXP",
+      "2BA775VHH"
+    ],
+    "2BBZBNQ37": [
+      "2BBTFXVGV",
+      "2BCR1VMXP",
+      "2BA775VHH"
+    ],
+    "2BAGMJH2K": [
+      "2BBTFXVGV",
+      "2BCR1VMXP",
+      "2BA775VHH",
+      "2BA8715NC"
+    ],
+    "2BAZNBG6S": [
+      "2BA8715NC"
+    ],
+    "2BBKTZC4F": [
+      "2BA8715NC",
+      "2BBTFXVGV",
+      "2BCR1VMXP",
+      "2BA775VHH"
+    ]
+  },
+  "interpreterRepositories": [
+    {
+      "id": "central",
+      "type": "default",
+      "url": "http://repo1.maven.org/maven2/",
+      "releasePolicy": {
+        "enabled": true,
+        "updatePolicy": "daily",
+        "checksumPolicy": "warn"
+      },
+      "snapshotPolicy": {
+        "enabled": true,
+        "updatePolicy": "daily",
+        "checksumPolicy": "warn"
+      },
+      "mirroredRepositories": [],
+      "repositoryManager": false
+    },
+    {
+      "id": "local",
+      "type": "default",
+      "url": "file:///Users/shams/.m2/repository",
+      "releasePolicy": {
+        "enabled": true,
+        "updatePolicy": "daily",
+        "checksumPolicy": "warn"
+      },
+      "snapshotPolicy": {
+        "enabled": true,
+        "updatePolicy": "daily",
+        "checksumPolicy": "warn"
+      },
+      "mirroredRepositories": [],
+      "repositoryManager": false
+    }
+  ]
+}
