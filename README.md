@@ -13,7 +13,8 @@ fileList -> Lists all the files under current directory
 
 
 ### Build.
-```clone the repo and cd into it
+```
+clone the repo and cd into it
 mvn clean package -Pscalding -DskipTests
 import to intellij
 find bigbrain and start coding
